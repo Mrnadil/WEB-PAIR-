@@ -13,20 +13,26 @@ const fs = require("fs-extra");
 const { Boom } = require("@hapi/boom");
 
 const MESSAGE = process.env.MESSAGE ||  `
-*SESSION GENERATED SUCCESSFULY* ✅
+*🐼🍓-𝐙𝐄𝐑𝐎𝐗 𝐌𝐃-🐼❤️‍🩹 𝐁𝐎𝐓 𝐏𝐀𝐈𝐑
 
-*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/GuhailTechInfo/ULTRA-MD
+*┏━━━━━━━━━━━━━━*
+*┃𝐙𝐄𝐑𝐎𝐗-𝐌𝐃 SESSION IS*
+*┃SUCCESSFULLY*
+*┃CONNECTED ✅🔥*
+*┗━━━━━━━━━━━━━━━*
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+*❶ || Creator = 𝙼𝚁  𝙽𝙰𝙳𝙸𝙻 𝙷𝙰𝙽𝚂𝙰𝙹𝙰👨🏻‍💻✅*
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+*❷ || WhatsApp Channel =* https://whatsapp.com/channel/0029Vb8n2cA9mrGioPDAcJ1W
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+*❸ || Owner =* https://wa.me/+94740952053
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ *➍ ||  Telegram =* https://t.me/+0Fu4_dlsBUMyOGE1
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-*Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
-https://t.me/GlobalBotInc
-https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
-
-
-*Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
-https://youtube.com/GlobalTechInfo
-
-*ULTRA-MD--WHATTSAPP-BOT* 🥀
+*❸ || Youtube =* https://www.youtube.com/@EXDEVILGAMING-FF
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+*🧚‍♀️ᴄʀᴇᴀᴛᴇᴅ ʙʏ ©ᴍʀ ɴᴀᴅɪʟ🐼🍓*
 `
 
 
